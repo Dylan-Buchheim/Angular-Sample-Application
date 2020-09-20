@@ -1,0 +1,39 @@
+.col-md-2{
+    background-color: #D1D4D7;
+}
+.custom-sidebar {
+    padding:20px;
+    
+}
+
+.likeabutton {
+    width:100%;
+    margin:2px;
+    margin-left: 10px;
+    text-decoration: none; font: menu;
+    display: inline-block; padding: 8px 8px;
+    background-color: #3c7bda;
+    color:#EEE;
+    text-align: center;
+}
+#sidebar-item :hover{
+    background-color: #699eee;   
+}
+
+.add-component-container input{
+    width:100%;
+    margin:10px;
+}
+.add-component-container div{
+    margin-top:10px;
+}
+
+.footer{
+    margin-left:10px;
+    padding:20px;
+    background-color: #65676A;
+    color: #EEE;
+}
+
+
+

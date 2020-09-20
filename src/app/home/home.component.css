@@ -1,0 +1,11 @@
+.img-fluid{
+    max-width: 65%;
+}
+
+.carousel-caption{
+    position:relative;
+    padding-top:25px;
+    color: #333;
+    text-align:left;
+    left:5%;
+}
